@@ -31,11 +31,11 @@ Dus eerst verschillende pagina's in Figma, het idee achter artboards en hoe je g
 ~ Studenten zelf laten proberen
 
 #### Werken met componenten
-2. Dan lijkt het me handig om eerst de componenten te laten zien; daarin kan ik ook 'text styles' en 'color styles' behandelen
+Dan lijkt het me handig om eerst de componenten te laten zien; daarin kan ik ook 'text styles' en 'color styles' behandelen
 ~ Studenten zelf laten proberen
 
 #### Figma Auto Layout 
-3. Met de componenten kan je vervolgens auto layout toepassen
+Met de componenten kan je vervolgens auto layout toepassen
 ~ Studenten zelf laten proberen
 
 
