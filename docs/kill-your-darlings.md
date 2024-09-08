@@ -10,7 +10,7 @@ Met Figma kun je in de browser werken, maar er is ook een desktop app: https://w
 
 ## Aanpak
 
-We beginnen met een aantal oefenignen. Daarna ga je met je team werken in één Figma file. Zo kun je verschillende layouts maken, vergelijken en goede ontwerpene selecteren. 
+We beginnen met een aantal [oefeningen](#figma-oefeningen). Daarna ga je met je team itereren op jullie   [squadpage ontwerp](#squadpage-ontwerpen) in één Figma file. Zo kun je verschillende layouts maken, vergelijken en goede ontwerpen selecteren. 
 
 <!--
 3 opdrachten waarbij ze tegelijk leren wat je met Figma kan:
