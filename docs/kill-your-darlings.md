@@ -45,13 +45,6 @@ Ontwerp namaken in Figma (als ze dat nog niet hebben)
 Artboard dupliceren en varieren met Visuele Hiearchie.
 
 
-[Joshua Porter](http://bokardo.com/principles-of-user-interface-design/) schrijft in zijn artikel over _principles of user interface design_: 
-> A strong visual hierarchy is achieved when there is a clear viewing order to the visual elements on a screen. Most people don't notice visual hierarchy but it is one of the easiest ways to strengthen (or weaken) a design
-
-Visuele hiërarchie is belangrijk in webdesign. Het vertelt mensen waar ze moeten kijken en welke dingen op het scherm het belangrijkst zijn. 
-Visuele hiërarchie kun je op verschillende manieren bereiken, zoals grootte van tekst of elementen, kleur gebruik en contrast, witruime en positie van elementen op het scherm.
-
-
 - **Hiërarchie bepalen** Pak je (laatste) ontwerp en vraag jezelf eens af: “Wat moeten mensen als eerste zien?” Omcirkel de belangrijkste informatie, belangrijke details en achtergrondinformatie.
 - **Variaties schetsen** Maak minimaal 4 verschillende versies van het ontwerp in Figma, waarin je visuele hiêrarchie aanbrengt door middle van grootte, positie op het scherm, witruimte en kleur/contrast.
 - **Feedback** Bespreek alle variaties in je team. Leg bij elke schets uit hoe je visuele hiërarchie hebt toegepast.
