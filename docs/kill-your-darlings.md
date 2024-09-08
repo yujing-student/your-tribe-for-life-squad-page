@@ -4,7 +4,9 @@
 
 Jullie zijn met een team een squad page aan het ontwerpen en maken met Svelte Kit en een headless CMS. Daarvoor hebben jullie al een ontwerp gemaakt en al een eerste versie gecodeerd. In deze workshop ga je met je team itereren op het ontwerp door te variëren en experimenteren in Figma. 
 
-Voor deze workshop heb je een Figma account nodig, en kun je de Figma educational license aanvragen https://www.figma.com/education/apply. Met Figma kun je in de browser werken, maar er is ook een desktop app: https://www.figma.com/downloads/.  
+Voor deze workshop heb je een Figma account nodig, en kun je de Figma educational license aanvragen https://www.figma.com/education/apply. 
+
+Met Figma kun je in de browser werken, maar er is ook een desktop app: https://www.figma.com/downloads/.  
 
 ## Aanpak
 
