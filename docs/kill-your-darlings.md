@@ -63,8 +63,9 @@ In de componenten en op artboards kan je ook auto layout toepassen.
 
 
 ### Opdracht: Squadpage ontwerpen 
-- Maak je ontwerp na in Figma als je alleen nog een schets op papier hebt. Pas de Figma oefeningen toe die je hebt geleerd. 
-
+- Maak je ontwerp na in Figma als je alleen nog een schets op papier hebt. Pas de Figma oefeningen toe die je hebt geleerd. Gebruik 'Text styles' en 'color styling' voor het consitent gebruik van stylen. Gebruik componenten voor elementen die vaker terugkomen. 
+- Voordat je gaat varieren en experimenteren met de layout van de overzichtpagina gaan jullie eerst inspiratie zoeken. Verzamel dit in jullie gezamenlijke Figma file.
+- Ga daarna verschillende ontwerpen maken met je team, dupliceer een artboard elke keer als je een nieuwe variatie gaat maken:
 - **Hiërarchie bepalen** Pak je (laatste) ontwerp en vraag jezelf eens af: “Wat moeten mensen als eerste zien?” Omcirkel de belangrijkste informatie, belangrijke details en achtergrondinformatie.
 - **Variaties maken** Maak minimaal 4 verschillende versies van het ontwerp in Figma, waarin je visuele hiêrarchie aanbrengt door middle van grootte, positie op het scherm, witruimte en kleur/contrast.
 - **Feedback** Bespreek alle variaties in je team. Leg bij elke schets uit hoe je visuele hiërarchie hebt toegepast.
