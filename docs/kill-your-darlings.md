@@ -31,6 +31,7 @@ Open de template https://www.figma.com/community/file/1414605941438286466/fdnd-f
 
 #### Werken met pagina's, artboards en grids
 Je kan in Figma pagina's inzetten om meer overzicht te krijgen in je designs. Wij hebben ons template opgedeeld in de volgende pagina's.
+
 <img width="233" alt="CleanShot 2024-09-09 at 10 14 49@2x" src="https://github.com/user-attachments/assets/1c4a3c15-e9a2-4825-85ca-11bd0ef77a4c">
 
 In Figma werk je op artboards (frames), een artboard stelt over het algemeen één scherm voor, voor continuïteit is het handig om gridlijnen toe te voegen zodat je dezelfde spacing aanhoudt over je hele ontwerp.
@@ -62,7 +63,7 @@ In de componenten en op artboards kan je ook auto layout toepassen.
 
 
 ### De opdracht: Squadpage ontwerpen 
-- Maak je ontwerp na in Figma als je alleen nog een schets op papier hebt.
+Maak je ontwerp na in Figma als je alleen nog een schets op papier hebt.
 
 Dupliceer het artboard en varieer in de ontwerpen, denk hierbij goed na over visuele hiërarchie.
 
@@ -72,9 +73,10 @@ Dupliceer het artboard en varieer in de ontwerpen, denk hierbij goed na over vis
 - Maak een **nieuw ontwerp** voor de squadpage in Figma waarin jullie de nieuwe ideeeën en feedback verwerken
 
 #### Bronnen Squadpage ontwerpen
+<!--
 - [Principles of User Interface Design van Joshua Porter](http://bokardo.com/principles-of-user-interface-design/)
 - [Communicating a Message Through Visual Hierarchy](https://designmodo.com/visual-hierarchy/)
-- [Design Principles: Dominance, Focal Points And Hierarchy](https://www.smashingmagazine.com/2015/02/design-principles-dominance-focal-points-hierarchy/)
+- [Design Principles: Dominance, Focal Points And Hierarchy](https://www.smashingmagazine.com/2015/02/design-principles-dominance-focal-points-hierarchy/) -->
 
 - Lees de deeltaak [Visuele hierarchie](https://github.com/fdnd-task/visuele-hierarchie) nog een keer en probeer dat toe te passen
 
