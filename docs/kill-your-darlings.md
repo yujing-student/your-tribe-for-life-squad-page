@@ -63,9 +63,7 @@ In de componenten en op artboards kan je ook auto layout toepassen.
 
 
 ### De opdracht: Squadpage ontwerpen 
-Maak je ontwerp na in Figma als je alleen nog een schets op papier hebt.
-
-Dupliceer het artboard en varieer in de ontwerpen, denk hierbij goed na over visuele hiërarchie.
+- Maak je ontwerp na in Figma als je alleen nog een schets op papier hebt. Pas de Figma oefeningen toe die je hebt geleerd. 
 
 - **Hiërarchie bepalen** Pak je (laatste) ontwerp en vraag jezelf eens af: “Wat moeten mensen als eerste zien?” Omcirkel de belangrijkste informatie, belangrijke details en achtergrondinformatie.
 - **Variaties schetsen** Maak minimaal 4 verschillende versies van het ontwerp in Figma, waarin je visuele hiêrarchie aanbrengt door middle van grootte, positie op het scherm, witruimte en kleur/contrast.
