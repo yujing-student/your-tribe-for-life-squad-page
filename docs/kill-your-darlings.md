@@ -12,7 +12,7 @@ Met Figma kun je in de browser werken, maar er is ook een desktop app: https://w
 
 We beginnen met een aantal [oefeningen](#figma-oefeningen) om Figma wat beter onder de knie te krijgen.
 
-Na de uitleg ga je met je team inspiratie zoeken voor jullie [squadpage ontwerp](#squadpage-ontwerpen) en samenwerken in één Figma file. 
+Na de uitleg ga je met je team inspiratie zoeken voor jullie [squadpage ontwerp](#opdracht-squadpage-ontwerpen) en samenwerken in één Figma file. 
 
 Zo kun je verschillende layouts maken, vergelijken en goede ontwerpen selecteren. 
 
@@ -62,7 +62,7 @@ In de componenten en op artboards kan je ook auto layout toepassen.
 <img width="232" alt="CleanShot 2024-09-09 at 10 38 00@2x" src="https://github.com/user-attachments/assets/1f4e0861-78eb-4370-9737-ade8ff31bf67">
 
 
-### De opdracht: Squadpage ontwerpen 
+### Opdracht: Squadpage ontwerpen 
 - Maak je ontwerp na in Figma als je alleen nog een schets op papier hebt. Pas de Figma oefeningen toe die je hebt geleerd. 
 
 - **Hiërarchie bepalen** Pak je (laatste) ontwerp en vraag jezelf eens af: “Wat moeten mensen als eerste zien?” Omcirkel de belangrijkste informatie, belangrijke details en achtergrondinformatie.
