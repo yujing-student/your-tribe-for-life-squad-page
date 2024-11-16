@@ -1,7 +1,7 @@
 > _Fork_ deze leertaak en ga aan de slag. Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
 # Squad Page
-Dit is een FDND squad page gemaakt d.m.v. SvelteKit en Directus
+Dit is een FDND squad page gemaakt d.m.v. SvelteKit en Directus dit is een oude versie en een backup met <a href="https://github.com/KaanKalmi/your-tribe-for-life-squad-page">de juiste repository staat hier</a>
 
 ## Inhoudsopgave
 
